@@ -1,3 +1,2 @@
-# hangman
-Python hangman program
-Has 1000 of the most commenly used words.
+# Hangman
+Python hangman program has 1000 of the most commenly used words.
