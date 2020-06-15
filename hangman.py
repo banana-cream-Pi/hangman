@@ -1,4 +1,4 @@
-#If you let me win I'll mail you a cookie I'm not joking I will legit mail you a cookie if you give me your adress or P.O box
+
 #importing drugs
 import random
 
